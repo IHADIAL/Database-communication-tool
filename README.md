@@ -20,4 +20,4 @@ In PostgreSQL create a database, name it, and run the tables.sql file and info.s
 5. Exit program.
 
 # Video instructions
-*link*
+[*link*](https://www.youtube.com/watch?v=fcUGAS5IyHw)
