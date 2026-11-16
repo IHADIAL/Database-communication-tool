@@ -1,5 +1,5 @@
 import psycopg2 # imports the library that allows comunicaion with the database
-conn = psycopg2.connect(host="localhost", database="Assignment 3", user="postgres", password="SQLHadi") 
+conn = psycopg2.connect(host="localhost", database="name", user="name", password="password") 
 cur = conn.cursor()
 print("Connected to the database successfully!") # establishes a connection to the database and creates a object for executing queries
 
